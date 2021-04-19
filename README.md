@@ -1,16 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning Kotlin & Android Application Security
-- 🤔 I’m looking for help with Mobile Application Developer & Mobile Application Security Career
-
-
-
-### ⚡ Tech Stack
-
-- Java | Kotlin | Python | Flutter
-- SQLite
-- Git
-
+- 🤔 and looking for help with Mobile Application Developer & Mobile Application Security Career
 
 
 ### 📫 Get in touch
