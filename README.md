@@ -6,8 +6,8 @@
 
 ### 📫 Get in touch
 
-- [Twitter](twitter.com/feyyazoonur)
-- [LinkedIn](linkedin.com/in/feyyazonur/)
+- [Twitter](https://www.twitter.com/feyyazoonur)
+- [LinkedIn](https://www.linkedin.com/in/feyyazonur/)
 
 
 
